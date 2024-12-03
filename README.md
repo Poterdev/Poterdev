@@ -42,7 +42,7 @@ Sou estudante de Analise de Sistemas pela Uninter, com foco em análise explorat
 ## 📫 Como me Encontrar
 - 📧 Email: seu.email@exemplo.com
 - 💼 LinkedIn: www.linkedin.com/in/erickson-santos-36a607318
-- 📝 Medium: [[Seu Blog](seu_medium)](https://medium.com/@erickson1.dev)
+- 📝 Medium:https://medium.com/@erickson1.dev
 
 ## ⚡ Curiosidades
 - Contribuidor em projetos open source
