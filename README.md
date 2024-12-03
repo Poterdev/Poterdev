@@ -7,13 +7,16 @@ Sou estudante de Analise de Sistemas pela Uninter, com foco em análise explorat
 - Análise Exploratória de Dados (EDA)
 - Visualização de Dados
 - Machine Learning (objetivo)
-- Manutenção Preditiva
+- Comercial
+- Merketing
+- Panôrama operacional
 - Otimização de Processos
 - Transformação de dados
+- Ferramentas de BI
 
 ## 🛠️ Tecnologias e Ferramentas 
 
-- Excel para análise de dados 
+- Python para análise de dados 
 - Pandas
 - Matplotlib
 - Seaborn
@@ -21,34 +24,27 @@ Sou estudante de Analise de Sistemas pela Uninter, com foco em análise explorat
 
 ## 📊 Projetos em Destaque
 
-### [Análise de Monitoramento de Máquinas](link_do_projeto)
-Sistema de análise para prevenção de falhas em máquinas industriais
-- Visualização avançada com Seaborn e Matplotlib
-- Análise estatística de parâmetros críticos
-- Recomendações para otimização de processos
 
 ### [Outros Projetos Relevantes](link_dos_projetos)
 - Projeto 2: Breve descrição
 - Projeto 3: Breve descrição
 
 ## 📚 Estou Aprendendo
-- Deep Learning
 - Processamento de Sinais
 - Estatística
 - Storytelling dos dados
 - Big Data Analytics
 - Power Bi
-- Streamlit
-- Excel para análise de dados 
+- Tableau
+- Python para análise de dados 
 
 
 ## 📫 Como me Encontrar
 - 📧 Email: seu.email@exemplo.com
-- 💼 LinkedIn: [Seu Nome](seu_linkedin)
-- 📝 Medium: [Seu Blog](seu_medium)
+- 💼 LinkedIn: www.linkedin.com/in/erickson-santos-36a607318
+- 📝 Medium: [[Seu Blog](seu_medium)](https://medium.com/@erickson1.dev)
 
 ## ⚡ Curiosidades
-- Participante ativo de competições de análise de dados
 - Contribuidor em projetos open source
 - Sempre em busca de novos desafios e aprendizados
 
