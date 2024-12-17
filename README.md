@@ -21,6 +21,8 @@ Sou estudante de Analise de Sistemas pela Uninter, com foco em análise explorat
 - Matplotlib
 - Seaborn
 - Numpy
+- Ollama (modelos llm)
+- LlamaIndex
 
 ## 📊 Projetos em Destaque
 
@@ -36,7 +38,9 @@ Sou estudante de Analise de Sistemas pela Uninter, com foco em análise explorat
 - Big Data Analytics
 - Power Bi
 - Tableau
-- Python para análise de dados 
+- Python para análise de dados
+- Desenvolvimento de chatbot
+- RAG e FineTuning
 
 
 ## 📫 Como me Encontrar
